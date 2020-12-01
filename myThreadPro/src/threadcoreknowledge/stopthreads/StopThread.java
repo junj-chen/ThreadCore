@@ -1,6 +1,5 @@
 package threadcoreknowledge.stopthreads;
 
-import javafx.scene.paint.Stop;
 
 /**
  * 错误的停止方法： 用stop（）来停止线程，
